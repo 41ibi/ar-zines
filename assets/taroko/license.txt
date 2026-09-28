@@ -1,0 +1,12 @@
+Model Information:
+* title:	Taroko Gorge, Taiwan
+* source:	https://sketchfab.com/3d-models/taroko-gorge-taiwan-9acbefa8809d4acc9c00a63c9fafa347
+* author:	Sara Carena (https://sketchfab.com/saracarena1)
+
+Model License:
+* license type:	CC Attribution-NonCommercial
+* requirements:	This model may not be used in datasets for, in the development of, or as inputs to generative AI programs.
+
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Taroko Gorge, Taiwan" (https://sketchfab.com/3d-models/taroko-gorge-taiwan-9acbefa8809d4acc9c00a63c9fafa347) by Sara Carena (https://sketchfab.com/saracarena) licensed under CC-BY-NC4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
